@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
 
 
+    <color name="primary_green">#00794c</color>
+    <color name="secondary_green">#02b983</color>
     <color name="light_green">#06ea8c</color>
+    <color name="light_green1">#00cc7d</color>
     <color name="blue_green">#19585d</color>
     <color name="darkest_green">#001B1E</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="dos">#163031</color>
+
+
+    <color name="dark_blue">#18252d</color>
+
+    <color name="yellow_green">#e8fe2d</color>
+
 </resources>
