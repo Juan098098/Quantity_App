@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Quanty" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/dos</item>
+        <item name="colorPrimary">@color/grey_green</item>
         <item name="colorPrimaryVariant">@color/darkest_green</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->

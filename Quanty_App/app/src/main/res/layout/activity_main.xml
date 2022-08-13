@@ -12,9 +12,9 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/dark_blue"
-        android:text="Button"
-        android:textColor="@color/white"
-        tools:layout_editor_absoluteX="175dp"
-        tools:layout_editor_absoluteY="614dp" />
+        android:backgroundTint="@color/dark_blue_green"
+        android:text="Done"
+        android:textColor="@color/light_green"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="476dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
