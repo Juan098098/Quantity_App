@@ -5,7 +5,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFF</color>
-
     <!-- Green Scale. -->
     <color name="light_green">#06ea8c</color>
     <color name="light_green1">#00cc7d</color>
@@ -15,11 +14,9 @@
     <color name="dark_blue_green">#012E33</color>
     <color name="grey_green">#163031</color>
     <color name="darkest_green">#012529</color>
-
+    <color name="darkest_blue_green">#011C1E</color>
     <!-- Blue Scale. -->
-    <color name="dark_blue">#18252d</color>
-
+    <color name="dark_grey_blue">#18252d</color>
     <!-- Yellow Scale. -->
     <color name="yellow_green">#e8fe2d</color>
-
 </resources>
