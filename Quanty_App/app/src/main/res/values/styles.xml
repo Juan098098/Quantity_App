@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconSize">44dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="android:background">@color/white</item>
+        <item name="itemIconTint">@android:color/transparent</item>
+    </style>
 </resources>
