@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_green</item>
+        <item name="colorPrimaryDark">@color/blue_green</item>
+        <item name="colorAccent">@color/yellow_green</item>
+        <item name="android:textColorPrimary">@color/blue_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/blue_green</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementReenterTransition">@null</item>
+        <item name="android:windowReenterTransition">@null</item>
+    </style>
+
     <style name="BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
         <item name="itemIconSize">44dp</item>
         <item name="labelVisibilityMode">labeled</item>
         <item name="android:background">@color/white</item>
         <item name="itemIconTint">@android:color/transparent</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="Button">
+        <item name="cornerRadius">20dp</item>
+        <item name="android:textAppearance">@style/ButtonTextAppearance</item>
+    </style>
+
+    <!-- Button Text Appearance-->
+    <style name="ButtonTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <!-- Button Primary -->
+    <style name="Button.Primary">
+        <item name="android:textStyle">bold</item>
+        <item name="android:backgroundTint">@color/yellow_green</item>
+        <item name="android:textColor">@color/blue_green</item>
+    </style>
+    <!-- Button Secondary -->
+    <style name="Button.Secondary">
+        <item name="android:visible">false</item>
+
+        <item name="android:backgroundTint">@color/blue_green</item>
+        <item name="android:textColor">@color/light_green</item>
+        <item name="elevation">0dp</item>
     </style>
 </resources>

@@ -5,7 +5,13 @@
             android:id="@+id/home"
             android:title="@string/home_nav_bar"/>
         <item
+            android:id="@+id/movemenst"
+            android:title="@string/movements_nav_bar"/>
+        <item
             android:id="@+id/settings"
             android:title="@string/settings_nav_bar"/>
+        <item
+            android:id="@+id/profile"
+            android:title="@string/profile_nav_bar"/>
 
 </menu>

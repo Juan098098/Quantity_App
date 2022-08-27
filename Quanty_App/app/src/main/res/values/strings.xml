@@ -1,9 +1,26 @@
 <resources>
     <string name="app_name">Quanty</string>
 
+    <!-- Home TextViews-->
+    <string name="home_tittle">Hola,</string>
+    <string name="home_your_money_tittle">Tu dinero disponible</string>
+    <string name="home_resume_tittle">Resumen</string>
+
+    <!-- Home Buttons-->
+    <string name="home_manage_your_money">Administra tu dinero</string>
+    <string name="home_see_more_button">Ver mas</string>
+
+
+    <string name="home_spent">Este mes has gastado</string>
+    <string name="home_saved">Tienes ahorrado</string>
+    <string name="home_they_owe">Te deben</string>
+    <string name="home_you_owe">Debes</string>
+
     <!-- Bottom Navigation-->
     <string name="home_nav_bar">Inicio</string>
+    <string name="movements_nav_bar">Movimientos</string>
     <string name="settings_nav_bar">Ajustes</string>
+    <string name="profile_nav_bar">Perfil</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
