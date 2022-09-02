@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
         <item
-            android:id="@+id/movemenst"
+            android:id="@+id/transactions"
             android:title="@string/movements_nav_bar"/>
         <item
             android:id="@+id/home"

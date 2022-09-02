@@ -18,7 +18,15 @@
         <item name="itemIconSize">44dp</item>
         <item name="labelVisibilityMode">labeled</item>
         <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/dark_blue_green</item>
         <item name="itemIconTint">@android:color/transparent</item>
+    </style>
+
+    <!-- TextViews -->
+    <style name="Main_title_textView">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/blue_green</item>
     </style>
 
     <!-- Buttons -->
@@ -33,12 +41,15 @@
         <item name="android:textAlignment">center</item>
         <item name="android:textAllCaps">false</item>
     </style>
+
+
     <!-- Button Primary -->
     <style name="Button.Primary">
         <item name="android:textStyle">bold</item>
         <item name="android:backgroundTint">@color/yellow_green</item>
         <item name="android:textColor">@color/blue_green</item>
     </style>
+
     <!-- Button Secondary -->
     <style name="Button.Secondary">
         <item name="android:visible">false</item>
