@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quanty</string>
+    <string name="app_name">Quantity</string>
 
     <!-- Bottom Navigation-->
     <string name="home_nav_bar">Inicio</string>
@@ -12,7 +12,9 @@
     <!-- HOME-->
     <!-- Home TextViews-->
     <string name="home_tittle">Hola,</string>
-    <string name="home_your_money_tittle">Tu dinero disponible</string>
+    <string name="home_your_money_tittle">Tu dinero</string>
+    <string name="home_your_money_available_tittle">Disponible</string>
+    <string name="home_your_money_total_tittle">Total</string>
     <string name="home_resume_tittle">Resumen</string>
 
     <!-- Home Buttons-->
@@ -29,9 +31,17 @@
     <!-- TRANSACTIONS-->
     <!-- Transactions TextViews-->
     <string name="transactions_tittle">Movimientos</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 
-
-
+    <!-- SETTINGS-->
+    <string name="about_quantity">Acerca de Quantity</string>
+    <!-- Transactions TextViews-->
+    <!-- App Version TextViews-->
+    <string name="app_version_text">App Version</string>
+    <string name="app_version">1.0.0</string>
 
 
 </resources>
